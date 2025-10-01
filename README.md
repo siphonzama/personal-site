@@ -33,7 +33,7 @@ The website includes links to my GitHub, LinkedIn, and email, making it easy for
 
 ## 🚀 Live Demo
 The project is live on GitHub Pages:  
-👉 [View Portfolio Website](https://your-username.github.io/your-repo-name)
+👉 [View Portfolio Website](https://siphonzama.github.io/personal-site)
 
 ---
 
